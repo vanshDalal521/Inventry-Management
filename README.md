@@ -90,8 +90,7 @@ SmartStock is a high-fidelity, professional inventory management solution design
 
 ## 👥 The Team
 
-- **Gaurav** - *Team Leader & Backend Architect*
-- **Vishal Khandel** - *Core Developer & Frontend Engineer*
+- **Vansh** - *Team Leader*
 
 ---
 
